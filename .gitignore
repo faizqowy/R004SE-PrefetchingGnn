@@ -1,0 +1,8 @@
+**/**.pdf
+**/**.docx
+**/**.xlsx
+**/**.pptx
+**/**.tex
+**/**.zip
+**/**__pycache__/
+lab_venv/
